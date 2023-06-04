@@ -1,17 +1,17 @@
 {
   "Students": [
     {
-      "name": "Javohir",
-      "lastName": "Nabiev",
-      "dateBirth": "2006-01-01",
-      "adress": "Xisorak MFY",
-      "School": "2-Son KHM 31-guruh I kurs",
-      "phone": "900505092",
+      "name": "Bekmurod",
+      "lastName": "Mahmudjonov",
+      "dateBirth": "2013",
+      "adress": "SadachaMFy Sabzazor kocha 23uy ",
+      "School": "3-Maktab 6-A sinf",
+      "phone": "+998 906422205",
       "education": "Frontend Dasturlash",
       "dayEducation": "Seshanba,Payshanba,Shanba",
       "Adding": "Nazariy bilimlari yaxshi",
-      "timeEducation": "15:30",
-      "img":"https://647c2b055a670c75d7c52c4e--brilliant-baklava-0f39ab.netlify.app/imgs/Abdulhay.jpg",
+      "timeEducation": "8:30",
+      "img":"http://127.0.0.1:5500/imgs/bekmurod.jpg",
       "id": "X9L1aR0"
     },
     {
