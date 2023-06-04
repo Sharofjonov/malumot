@@ -68,7 +68,7 @@
       "Adding": "Bilimdon",
       "timeEducation": "8:30",
       "img":"https://647c2b055a670c75d7c52c4e--brilliant-baklava-0f39ab.netlify.app/imgs/jahoongir.jpg",
-      "id": "j7ZfTQu"
+      "id": "j7ZfTQa"
     },
     {
       "name": "Jaloliddin",
@@ -82,7 +82,77 @@
       "Adding": "Zukko o`uvchi",
       "timeEducation": "8:30",
       "img":"https://647c2b055a670c75d7c52c4e--brilliant-baklava-0f39ab.netlify.app/imgs/Jaloliddin.jpg",
-      "id": "j7ZfaTQu"
+      "id": "j7ZfaTQb"
+    },
+    {
+      "name": " Abdurahmon",
+      "lastName": "Halilov",
+      "dateBirth": "1996",
+      "adress": "Kamarsada MFY",
+      "School": "-",
+      "phone": "91 342 1259",
+      "education": "Frontend Dasturlash",
+      "dayEducation": "Seshanba, Payshanba, Shanba",
+      "Adding": ".",
+      "timeEducation": "13:30",
+      "img":"https://647c2b055a670c75d7c52c4e--brilliant-baklava-0f39ab.netlify.app/imgs/Abdurahmon.jpg",
+      "id": "j7ZfsTQu"
+    },
+    {
+      "name": "  Intizor",
+      "lastName": "Hasanboyeva",
+      "dateBirth": "2009",
+      "adress": "Obihayot MFY, Afrosiyob ko`chasi",
+      "School": "33-mkatab",
+      "phone": "91 161 61 86",
+      "education": "Frontend Dasturlash",
+      "dayEducation": "Seshanba, Payshanba, Shanba",
+      "Adding": ".",
+      "timeEducation": "13:30",
+      "img":"https://647c2b055a670c75d7c52c4e--brilliant-baklava-0f39ab.netlify.app/imgs/intizor.jpg",
+      "id": "j7ZfdTQu"
+    },
+    {
+      "name": "Mirzohid",
+      "lastName": "Mo`tabarov",
+      "dateBirth": "2009",
+      "adress": "Musstaqiliik ko`cha",
+      "School": "24-maktab",
+      "phone": "94 830 61 81",
+      "education": "Frontend Dasturlash",
+      "dayEducation": "Seshanba, Payshanba, Shanba",
+      "Adding": ".",
+      "timeEducation": "13:30",
+      "img":"https://647c2b055a670c75d7c52c4e--brilliant-baklava-0f39ab.netlify.app/imgs/Mirzohid.jpg",
+      "id": "j7gfaTQu"
+    },
+    {
+      "name": " Asadbek",
+      "lastName": "Omonjonov",
+      "dateBirth": "2009",
+      "adress": "Guliston MFY, O`zbekiston ko`cha",
+      "School": "75-maktab",
+      "phone": "90 553 10 34",
+      "education": "Frontend Dasturlash",
+      "dayEducation": "Seshanba, Payshanba, Shanba",
+      "Adding": ".",
+      "timeEducation": "13:30",
+      "img":"https://647c2b055a670c75d7c52c4e--brilliant-baklava-0f39ab.netlify.app/imgs/Asadbek.jpg",
+      "id": "j7ZraTQu"
+    },
+    {
+      "name": "  Zulayho",
+      "lastName": "Muhtorova",
+      "dateBirth": "2008",
+      "adress": "Pansada MFY, Boborahim mashrab ko`chasi",
+      "School": "5-maktab",
+      "phone": "90 050 52 80",
+      "education": "Frontend Dasturlash",
+      "dayEducation": "Seshanba, Payshanba, Shanba",
+      "Adding": ".",
+      "timeEducation": "13:30",
+      "img":"https://647c2b055a670c75d7c52c4e--brilliant-baklava-0f39ab.netlify.app/imgs/zulayho.jpg",
+      "id": "jlZfaTQu"
     }
   ]
 }
